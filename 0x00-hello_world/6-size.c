@@ -2,10 +2,8 @@
 
 /**
  * main - Entry point
- *
- * description: using sizeof to print the size of various types
- *
- * return: always 0 (success)
+ * Description: using sizeof function to print the size of various types
+ * Return: always 0 (success)
 */
 
 int main(void)
