@@ -2,7 +2,7 @@
 
 /**
  * main - entry point
- * Description: print all single digit numbers
+ * Description: print all single digit
  * Return: 0 (success)
 */
 
@@ -15,7 +15,7 @@ int main(void)
 		printf("%i", digit);
 		digit++;
 	}
-	printf('\n');
+	printf("\n");
 
 	return (0);
 }
