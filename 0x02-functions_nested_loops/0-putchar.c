@@ -1,14 +1,17 @@
-#include<unistd.h>
 #include "main.h"
 /**
- * _putchar -write the charachter c to stdout
- * @c: the charachter to print
- *
- * Return: on success 1.
- * 	   on error, -1 is returned
+ * main - entry point
+ * Description: ptints _putchar using prototype
+ * Return: 0 (success)
 */
 
-int _putchar(char c)
+int main(void)
 {
-return (write(1, &c, 1));
+	char str[] = "_putchar";
+	int ch;
+
+	for (ch = 0, ch < 8; ch++)
+		_putchar(str[ch]);
+	_putchar('\n')
+	return (0);
 }
