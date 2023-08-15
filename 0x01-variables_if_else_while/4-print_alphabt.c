@@ -5,7 +5,7 @@
  *
  * Description: print all alphabet letters except q and e
  *
- * Return always 0 (success)
+ * Return: always 0 (success)
 */
 
 int main(void)
