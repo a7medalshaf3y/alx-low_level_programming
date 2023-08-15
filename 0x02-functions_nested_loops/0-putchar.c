@@ -1,10 +1,11 @@
 #include<unistd.h>
 #include "main.h"
 /**
- * main - entry point
- * Description: prints a return file
- * Return: 1 (success)
-	   -1 on error
+ * _putchar -write the charachter c to stdout
+ * @c: the charachter to print
+ *
+ * Return: on success 1.
+ * 	   on error, -1 is returned
 */
 
 int _putchar(char c)
