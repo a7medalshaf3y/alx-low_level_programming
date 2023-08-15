@@ -4,7 +4,8 @@
  * main - entry point
  * Description: prints a return file
  * Return: 1 (success)
-*/	   -1 on error
+	   -1 on error
+*/
 
 int _putchar(char c)
 {
