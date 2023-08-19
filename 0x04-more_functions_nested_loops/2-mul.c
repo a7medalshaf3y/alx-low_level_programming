@@ -1,8 +1,7 @@
 #include "main.h"
 
 /**
- *
- * mul - multiples two integers
+ * mul - multiples twe integers
  *
  * @a: first input
  * @b: second input
