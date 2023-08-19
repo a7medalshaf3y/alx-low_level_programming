@@ -2,7 +2,7 @@
 
 /**
  *
- * mul - multiple two integeres
+ * mul - multiples two integers
  *
  * @a: first input
  * @b: second input
