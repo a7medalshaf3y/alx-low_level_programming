@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
- * swap_int: swap the values of two integers 
+ * swap_int: swap the values of two integers
  *		using two input integers
  *
- * @a: input parameter 1 
- * @b: input parameter 2 
+ * @a: input parameter 1
+ * @b: input parameter 2
  *
  * Return: nothing
 */
