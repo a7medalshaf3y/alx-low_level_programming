@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * puts - prints a string followed by newline to stdout
+ * _puts - prints a string followed by newline to stdout
  *
- * @std: string parameter to output
+ * @str: string parameter to output
  *
  * Return: nothing
 */
