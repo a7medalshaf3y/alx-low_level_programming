@@ -37,7 +37,7 @@ int isDelimeter(char c)
  * Return: string with captalized words
  */
 
-char *cap_string(char *)
+char *cap_string(char *s)
 {
 	char *ptr = s;
 	int foundDelimit = 1;

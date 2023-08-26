@@ -2,11 +2,11 @@
 
 /**
  * leet - encode a string into 1337
- * c: String
+ * @c: String input
  * Return: string that is encoded
 */
 
-char *leet(char *)
+char *leet(char *c)
 {
 	char *cp = c;
 	char key[] = {'A', 'E', 'O', 'T', 'L'};
