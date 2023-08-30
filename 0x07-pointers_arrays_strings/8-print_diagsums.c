@@ -4,7 +4,7 @@
 /**
  * print_diagsums - description
  * @a: second array of int types
- * @size: size off array (square)
+ * @size: size of array (square)
  */
 
 void print_diagsums(int *a, int size)
