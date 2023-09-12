@@ -1,12 +1,13 @@
 #include "dog.h"
 
 /**
- * init_dog - intialie a dog
+ * init_dog - intialize a dog
  * @d: the dog to intialize
  * @name: dog's name
  * @age: dog's age
  * @owner: owner's name
- * Return: void
+ *
+ * Return: void.
  */
 
 
