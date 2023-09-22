@@ -3,6 +3,7 @@
 /**
  * free_list - frees all nodes of a list
  * @head: pointer to head node
+ *
  * Return: void
  */
 
