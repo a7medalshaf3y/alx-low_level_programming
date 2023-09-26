@@ -1,7 +1,7 @@
 #include "lists.h"
 
 /**
- * free_listint freesa list of ints
+ * free_listint - freesa list of ints
  * @head: pointer to first node
  * Return: void
  */
