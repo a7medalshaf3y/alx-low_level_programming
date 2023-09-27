@@ -4,7 +4,7 @@
 /**
  * find_listint_loop_fl - finds a loop in a linked list
  * @head: linked list to search
- * Return: address of node where loop starts/returns, NULL if no 100p
+ * Return: address of node where loop starts/returns, NULL if no loop
  */
 
 listint_t *find_listint_loop_fl(listint_t *head)
