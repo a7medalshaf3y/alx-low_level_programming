@@ -38,6 +38,7 @@ size_t free_listint_safe(listint_t **h)
 
 	if (h == NULL || *h == NULL)
 		return (0);
+
 	loopnode = find_listint_loop_fl(*h);
 	for (len = 0; (*h != loopnode || loop) && *h != NULL; *h = next)
 	{
